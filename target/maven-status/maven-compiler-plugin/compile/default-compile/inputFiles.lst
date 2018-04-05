@@ -1,0 +1,12 @@
+/home/jinrong/pkfile/ggzujian/rabbitmq-access-master/src/main/java/com/richfit/message/MessageConsumerInter.java
+/home/jinrong/pkfile/ggzujian/rabbitmq-access-master/src/main/java/com/richfit/util/Utils.java
+/home/jinrong/pkfile/ggzujian/rabbitmq-access-master/src/main/java/com/richfit/message/builder/ConnectionFactoryBuilder.java
+/home/jinrong/pkfile/ggzujian/rabbitmq-access-master/src/main/java/com/richfit/message/handle/ThreadPoolConsumerHandle.java
+/home/jinrong/pkfile/ggzujian/rabbitmq-access-master/src/main/java/com/richfit/message/common/DetailRes.java
+/home/jinrong/pkfile/ggzujian/rabbitmq-access-master/src/main/java/com/richfit/message/common/Constants.java
+/home/jinrong/pkfile/ggzujian/rabbitmq-access-master/src/main/java/com/richfit/message/MessageSenderInter.java
+/home/jinrong/pkfile/ggzujian/rabbitmq-access-master/src/main/java/com/richfit/message/MessageProcessInter.java
+/home/jinrong/pkfile/ggzujian/rabbitmq-access-master/src/main/java/com/richfit/message/bean/ConnectionFactoryBean.java
+/home/jinrong/pkfile/ggzujian/rabbitmq-access-master/src/main/java/com/richfit/serveice/Rabbit.java
+/home/jinrong/pkfile/ggzujian/rabbitmq-access-master/src/main/java/com/richfit/message/MessageProcess.java
+/home/jinrong/pkfile/ggzujian/rabbitmq-access-master/src/main/java/com/richfit/message/builder/MessageBuilder.java

@@ -1,0 +1,15 @@
+com/richfit/message/handle/ThreadPoolConsumerHandle$ThreadPoolConsumerBuilder.class
+com/richfit/message/MessageConsumerInter.class
+com/richfit/message/common/Constants.class
+com/richfit/message/MessageProcess.class
+com/richfit/serveice/Rabbit.class
+com/richfit/message/builder/MessageBuilder.class
+com/richfit/util/Utils.class
+com/richfit/message/handle/ThreadPoolConsumerHandle.class
+com/richfit/message/builder/MessageBuilder$2.class
+com/richfit/message/builder/MessageBuilder$1.class
+com/richfit/message/MessageProcessInter.class
+com/richfit/message/common/DetailRes.class
+com/richfit/message/MessageSenderInter.class
+com/richfit/message/builder/ConnectionFactoryBuilder.class
+com/richfit/message/handle/ThreadPoolConsumerHandle$1.class
